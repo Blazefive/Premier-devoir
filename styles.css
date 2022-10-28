@@ -1,1 +1,39 @@
-/* Feuille de styles CSS */
+.Titre{
+    font-weight: bold;
+}
+
+.conteneur{
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    height: 1450px;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    
+}
+h1{
+    text-align: center;
+}
+.text{
+    padding: 10px;
+}
+.img{
+    margin-left: 35px;
+}
+.aligne{
+    text-align: center;
+}
+body{
+    background-color: rgb(240, 240, 240);
+}
+table{
+    height: 40px;
+    width: 460px;
+    margin: auto;
+    padding-top: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.source{
+    text-align: right;
+}
